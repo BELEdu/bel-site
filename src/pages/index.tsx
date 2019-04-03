@@ -2,6 +2,8 @@ import React from 'react';
 // import styles from './index.css';
 
 export default function() {
+  document.title = '早教加盟|贝尔乐早教中心|贝尔乐国际早教品牌|贝尔乐早教园|贝尔乐早教官网'
+
   return (
     <div>
       <div className="nav-container">
