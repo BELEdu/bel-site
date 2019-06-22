@@ -8,7 +8,7 @@ export default {
       antd: false,
       dva: false,
       dynamicImport: false,
-      title: 'myapp',
+      title: '贝尔乐早教',
       dll: false,
       
       routes: {
